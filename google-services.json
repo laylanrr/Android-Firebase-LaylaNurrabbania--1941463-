@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1042586325186",
+    "project_id": "layla-firebase",
+    "storage_bucket": "layla-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042586325186:android:835ef26f0b824230b3eb5b",
+        "android_client_info": {
+          "package_name": "com.example.buttonview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042586325186-nqjfc1uqavf464pb4ntto8e9jj244fns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGY_L-txbAG1-PamICVdsMRr6UEECkRbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042586325186-nqjfc1uqavf464pb4ntto8e9jj244fns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042586325186:android:4fdf6e80aee19f19b3eb5b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042586325186-nqjfc1uqavf464pb4ntto8e9jj244fns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGY_L-txbAG1-PamICVdsMRr6UEECkRbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042586325186-nqjfc1uqavf464pb4ntto8e9jj244fns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
